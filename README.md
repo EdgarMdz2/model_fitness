@@ -1,4 +1,4 @@
-# model_fitness_tripleten
+# model_fitness
 
 En este proyecto utilicé KMeans para segmentar a los usuarios del gimnasio según su comportamiento. Detectamos que ciertos grupos tienen mayor probabilidad de cancelar (churn), mientras que otros son mucho más leales.
 Por ejemplo, un clúster con asistencia baja y contratos cortos mostró la tasa de cancelación más alta, mientras que otro grupo con participación en promociones y clases grupales fue muy fiel.
